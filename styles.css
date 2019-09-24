@@ -2,8 +2,9 @@
 .navbar {
   margin-bottom: 0;
   border-radius: 0;
-  background-color: #f0ffff;
-  color: 	#FFF;
+  background-color:
+#FFEBCD;
+  color: 	#fff;
   padding: 1% 0;
   font-size: 1em;
   border: 0;
@@ -18,7 +19,7 @@
 navbar-brand.resize {
   float: left;
   max-height:100px;
-  padding: 0px 10px;
+  padding: 4px 1px;
 }
 /*home box*/
 .navbar-inverse .navbar-nav .active a, .navbar-inverse .navbar-nav .active a:focus,
@@ -29,7 +30,7 @@ navbar-brand.resize {
 }
 /*Services,Testimonials,contact,about*/
 .navbar-inverse .navbar-nav li a {
-  color: #D5D5D5;
+  color: black;
 
 }
 .carousel-caption{
@@ -53,14 +54,14 @@ navbar-brand.resize {
 }
 footer{
   width:100%;
-  background-color: black;
+  background-color:#FFE4C4;
   padding: 3%;
-  color:#FFF;
+  color:black;
 }
 .fa{
   padding:15px;
 font-size: 25px;
-color: #FFF;
+color: black;
 }
 .fa:hover{
   color: #D5D5D5;
